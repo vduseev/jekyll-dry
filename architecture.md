@@ -46,7 +46,7 @@ correctly resolved during generation process.
 {% endfrag example_of_loop %}
 ```
 
-In order to resolve this the `frag` tag first generates all fragment files, including `>` tag inside them leaved intact.
+In order to resolve this the `frag` tag first generates all fragment files, including `>` tag inside them left intact.
 
 The example above will result in a following fragment generated.
 
