@@ -1,6 +1,6 @@
 # jekyll-dry
 
-Set of Jekyll plugins to implement DRY (Don't Repeat Yourself) principle while writing documentation using Jekyll.
+Jekyll plugin that helps you to implement the DRY (Don't Repeat Yourself) principle while writing documentation using Jekyll.
 
 ## Plugins in the set
 
