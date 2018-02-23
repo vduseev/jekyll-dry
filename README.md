@@ -4,10 +4,13 @@ Jekyll plugin that helps you to implement the DRY (Don't Repeat Yourself) princi
 
 ## Table of contents
 
-* [Usage](#usage)
-* [Installation](#installation)
-* [Incompatibility with GitHub Pages](#incompatibility-with-github-pages)
-* [Plugin's architecture](architecture.md)
+* User Guide:
+  * [Usage](#usage)
+  * [Installation](#installation)
+  * [Incompatibility with GitHub Pages](#incompatibility-with-github-pages)
+* Implementation:
+  * [Plugin's architecture](architecture.md)
+  * [Detailed Design](detailed_design.md)
 
 ## Usage
 
