@@ -2,6 +2,13 @@
 
 Jekyll plugin that helps you to implement the DRY (Don't Repeat Yourself) principle while writing documentation using Jekyll.
 
+## Table of contents
+
+* [Usage](#usage)
+* [Installation](#installation)
+* [Incompatibility with GitHub Pages](#incompatibility-with-github-pages)
+* [Plugin's architecture](architecture.md)
+
 ## Usage
 
 ### Fragment's beginning tag: `{% frag ... %}`
