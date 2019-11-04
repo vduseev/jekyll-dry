@@ -1,6 +1,7 @@
 # jekyll-dry
 
 Jekyll plugin that helps you to implement the DRY (Don't Repeat Yourself) principle while writing documentation using Jekyll.
+The plugin allows you to reuse any fragments of markdown multiple times across a single Jekyll website. The fragments can include Liquid syntax and tags.
 
 ## Table of contents
 
