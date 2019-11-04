@@ -1,5 +1,7 @@
 # jekyll-dry
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f261f89a633e47e3964ecc37bb826d4f)](https://www.codacy.com/manual/vduseev/jekyll-dry?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vduseev/jekyll-dry&amp;utm_campaign=Badge_Grade)
+
 Jekyll plugin that helps you to implement the DRY (Don't Repeat Yourself) principle while writing documentation using Jekyll.
 The plugin allows you to reuse any fragments of markdown multiple times across a single Jekyll website. The fragments can include Liquid syntax and tags.
 
