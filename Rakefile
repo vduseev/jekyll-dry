@@ -1,2 +1,5 @@
 require "bundler/gem_tasks"
-task :default => :spec
+require 'rake/clean'
+
+task :default => [:clean]
+#task :default => :spec
