@@ -4,7 +4,7 @@ The plugin consists of three new Liquid tags: `frag`, `endfrag`, and `>`.
 
 ## Fragment's beginning tag: `frag`
 
-Whenever `frag` tag is detected it searches for the `endfrag` tag with the same id that was used for `frag` tag itself. That means that the tag's class method must perform a text search on the page using regex expression with the starting position of the search equal to the position of the first character after the current `frag` tag.
+`frag` tag is inherited from `Liquid::Block` and automatically detects `endfrag` tag with the same id that was used for `frag` tag itself. That means that the tag's class method must perform a text search on the page using regex expression with the starting position of the search equal to the position of the first character after the current `frag` tag.
 
 If a corresponding `endfrag` tag is not found, then the `render()` method of the tag does not return anything.
 
