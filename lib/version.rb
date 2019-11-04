@@ -1,5 +1,5 @@
 module Jekyll
-  module Dry
+  module JekyllDry
     VERSION = "1.0.0"
   end
 end
